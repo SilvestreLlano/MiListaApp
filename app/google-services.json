@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433057895843",
+    "project_id": "milistaapp-c771a",
+    "storage_bucket": "milistaapp-c771a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433057895843:android:9e6a2327889c1dce67f616",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-ld6dAyZZElZSHCLwK8oClUnpwjf8qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
